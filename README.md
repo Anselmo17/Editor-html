@@ -29,3 +29,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## pacote do projeto
 - pacote adicionado npm i quill@1.3.6
+
+## imagem do editor
+<img src="./src/assets/editor.jpg">
+
