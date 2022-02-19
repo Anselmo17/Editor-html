@@ -33,3 +33,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## imagem do editor
 <img src="./src/assets/editor.jpg">
 
+## link do doc sobre o editor
+- https://quilljs.com/docs/modules/toolbar/
